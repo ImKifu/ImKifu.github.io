@@ -1,7 +1,7 @@
 body {
     text-align : center;
     background : #FFC0CB;
-    font-family: "Lucida Console";
+    font-family: "Lucida Console", Courier, monospace;
     font-weight: 100;
 }
 
@@ -20,7 +20,7 @@ h1 {
 }
 
 #clockdiv {
-    font-family: "Lucida Console";
+    /*font-family: "Lucida Console";*/
     color      : #fff;
     display    : inline-block;
     font-weight: 100;
